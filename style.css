@@ -15,8 +15,8 @@ body{
     background-color: var(--yellow );
     height: 100vh;
     font-family: "Figtree", sans-serif;
-    /* font-size: 16px; */
-    line-height: 150%;
+    font-size: 1rem;
+    line-height: 1.5;
     color: var(--gray-950);
     display: flex;
     justify-content: center;
@@ -44,7 +44,6 @@ body{
 }
 
 .card .card-content {
-    /* font-size: 1em; */
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -106,6 +105,6 @@ body{
     .card{
         width: 327px;
         height: 501px;
-        font-size: 0.84em;
+        font-size: 0.88em;
     }
 }
